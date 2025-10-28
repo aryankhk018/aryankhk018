@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Technologies<br>👯 I’m looking to collaborate on Websites<br>🤝 I’m looking for help with Backend Technologies<br>🌱 I’m currently learning React<br>💬 Ask me about JavaScript, Node J.S, Express<br><br>
+🔭 I' m currently working as a SDE Intern @FOG Technologies<br>💬 Ask me about JavaScript, Node J.S, Express, React, Socket i.o, Java, Tailwind, bootstrap, Python<br><br>
 
 
 ## 🌐 Socials:
